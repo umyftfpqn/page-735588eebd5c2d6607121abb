@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b65725d252.yasute.cn/sitemap.xml
